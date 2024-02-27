@@ -14,6 +14,7 @@ Technologies Used
 3)Spring Data JPA: This technology facilitates the interaction with the database, allowing for the persistence of account and transaction data.
 4)Database(MySQL): I created my database in order to manage my data and the tables i had to create.
 5)Maven: The project is managed using Maven for easy dependency management and build processes.
+6)Postman: In order to test some queries.
 
 Helpers:
 StackOverFlow
