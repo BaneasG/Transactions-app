@@ -1,0 +1,24 @@
+Spring Boot Money Transfer API
+
+Introduction
+This project is aimed at demonstrating my eagerness to learn and showcase my skills as an entry-level developer. Despite being new to the field and and knowing that I have no experience in the subject, I have put in effort to build a  RESTful API for transferring money between two accounts.
+
+Project Overview
+Objective
+The primary goal of this project is to create a simple yet effective RESTful API that facilitates financial transactions between two bank accounts. 
+The API adheres to certain acceptance criteria, ensuring proper handling of scenarios such as successful money transfers, insufficient balances, transfer between the same account, and non-existent accounts.
+
+Technologies Used
+1)Java(IntelliJ IDEA): The project is built using the Java programming language.
+2)Spring Boot: I utilized the Spring Boot framework to simplify the development of the RESTful API.
+3)Spring Data JPA: This technology facilitates the interaction with the database, allowing for the persistence of account and transaction data.
+4)Database(MySQL): I created my database in order to manage my data and the tables i had to create.
+5)Maven: The project is managed using Maven for easy dependency management and build processes.
+
+Helpers:
+StackOverFlow
+Google Search
+Youtube
+GeeksforGeeks
+
+Errors: I don't understand why I'm getting this Exception in my project, so I post it an the Image called "Error".
