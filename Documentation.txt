@@ -1,7 +1,7 @@
 Spring Boot Money Transfer API
 
 Introduction
-This project is aimed at demonstrating my eagerness to learn and showcase my skills as an entry-level developer. Despite being new to the field and and knowing that I have no experience in the subject, I have put in effort to build a  RESTful API for transferring money between two accounts.
+RESTful API for transferring money between two accounts.
 
 Project Overview
 Objective
